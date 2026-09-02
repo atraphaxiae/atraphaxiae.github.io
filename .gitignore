@@ -13,6 +13,10 @@
 !/static/
 
 !/templates/
+!/templates/base.html
+!/templates/index.html
+!/templates/section.html
+!/templates/page.html
 
 !/themes/
 
