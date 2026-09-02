@@ -40,8 +40,8 @@ chain:
 ThinkPad E14 Gen 6 > FiiO FT1 Pro
 
 Yes, I don't have a DAC/AMP for my headphones. Yes, I'm driving it solely with the 3.5mm jack of the
-laptop. I might not even be a real audiophile at this point, but whatever. If I make any changes to
-this setup, I'll update this part of the page.
+laptop. I might not even be a real audiophile to you at this point, but whatever. If I make any
+changes to this setup, I'll update this part of the page.
 
 ## A Mastering Supreme
 Now, this will never be an exhaustive list. If I listen to all the releases there are of an album,
