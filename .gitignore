@@ -7,6 +7,9 @@
 !/zola.toml
 
 !/content/
+!/content/_index.md
+!/content/a-mastering-supreme/
+!/content/a-mastering-supreme/_index.md
 
 !/sass/
 
