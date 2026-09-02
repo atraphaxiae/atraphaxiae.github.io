@@ -1,0 +1,13 @@
+base_url = "https://atraphaxiae.github.io"
+compile_sass = true
+build_search_index = true
+
+[markdown]
+render_emoji = true
+smart_punctuation = true
+github_alerts = true
+
+[markdown.highlighting]
+theme = "catppuccin-mocha"
+
+[extra]
