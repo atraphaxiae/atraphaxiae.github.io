@@ -30,7 +30,7 @@ thinking that "it just does". But enough rambling, here are my thoughts.
 
 ## Analogue Productions AIPJ 77 (2010)
 Starting off super strong with the Analogue Productions AIPJ 77 from 2010, remastered by Kevin Gray.
-There is also an SACD also from 2010, and a repress from 2013 that I'm pretty sure all have the same
+There is also an SACD from 2010 and a repress from 2013, which I'm pretty sure all share the same
 mastering on them. Now, there is another can of worms that we'll open in the future that revolves
 around SACD vs. Vinyl when both have the same mastering on them. Sometimes the vinyl sounds better,
 sometimes it sounds worse, it all depends on the ripper. But anyways, I chose this release since
@@ -43,7 +43,7 @@ everything we're comparing. Nothing is hard-panned, unlike some of the other rel
 Right away, you can hear how pure and crystal-clear the drums sound. Even if they're all on the
 right, nothing gets muddy and you can always point out what Jones is doing at any instant in the
 album. The cymbals have a ton of sizzle, the snare has a lot of bite, and the bass drum and toms
-sound super deep; they aren't just thumps in the song. You can even clearly here some of his grunts!
+sound super deep; they aren't just thumps in the song. You can even clearly hear some of his grunts!
 This is going to be a trend with these Analogue Productions releases, and if you're a drummer like
 me, you will love these ones.
 
@@ -67,3 +67,25 @@ quiet in the mix. But when you can hear it, you can really hear that fullness in
 sustained and aren't just gone in an instant. You can easily hear the scratching sound that happens
 every time he shifts his hand position along the neck of his bass, and the sound of his strings
 buzzing when he emphasizes a low note.
+
+## Acoustic Sounds B0302077-01 (2020)
+Moving on to the less diminishing returns and much cheaper Acoustic Sounds release from 2020,
+remastered by Ryan Smith. This one is hardpan central. It's like Coltrane went back to Atlantic and
+back to Tom Dowd's mixing here. I don't know why they did it like this. Coltrane is WAY to the left
+and Jones is WAY to the right. This one simple thing makes this remaster just hard to listen to
+sometimes, especially on headphones. I've already gotten used to the Atlantic hardpan especially on
+"My Favorite Things", also by Coltrane, but it just doesn't sound as nice when you put it together
+with how hot RVG's cuts are.
+
+This one is a much darker and less analytic sound. While it is less clear, I find it to be bassier
+and more intense, especially in the drums and in the saxophone. While the sustained sizzle of the
+cymbals is long gone, it has been replaced by a thumpier bass drum and a more thunderous snare
+sound. Coltrane, while he's in the left corner of the room, is even more growlier now. Garrison's
+bass is also louder here, what with all the hard panning leaving him and Tyner all alone in the
+middle. This also made him sound more sustained, and it even seems like his bass is echoing
+throughout the room, especially in the bass solo in Pursuance. The bassier sound also makes Tyner's
+slamming sound a bit better, but it's still not great.
+
+Sadly, with great saxophone comes great inner groove distortion. Well, not really so great to the
+point of unlistenability, but it is there. It's easiest to hear near the ends of "Part II -
+Resolution" and "Part IV - Psalm" in Coltrane's saxophone, especially when he's belting out notes.
