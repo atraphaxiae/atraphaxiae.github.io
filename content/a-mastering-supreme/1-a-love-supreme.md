@@ -1,5 +1,6 @@
 +++
 title = "Part I - A Love Supreme"
+date = 2026-09-03
 +++
 
 What better way to start this series off than with the almost-namesake of the series? John
