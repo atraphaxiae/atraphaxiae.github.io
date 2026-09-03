@@ -11,7 +11,7 @@ you're a jazz fan, so let's just get into what we're dealing with. We have a col
 vinyl rips today:
 
 - Analogue Productions AIPJ 77 (2010) remastered by Kevin Gray, ripped by SteveMTNO
-- Acoustic Sounds B0302077-01 (2020) remastered by Ryan Smith, ripped by PBTHAL
+- Acoustic Sounds B0032077-01 (2020) remastered by Ryan Smith, ripped by PBTHAL
 - Speakers Corner AS-77 (2001) remastered by Kevin Gray, ripped by aksman
 - Impulse! AS-77 (1965) first press, mastered by Rudy Van Gelder, ripped by PBTHAL
 
@@ -69,7 +69,7 @@ sustained and aren't just gone in an instant. You can easily hear the scratching
 every time he shifts his hand position along the neck of his bass, and the sound of his strings
 buzzing when he emphasizes a low note.
 
-## Acoustic Sounds B0302077-01 (2020)
+## Acoustic Sounds B0032077-01 (2020)
 Moving on to the less diminishing returns and much cheaper Acoustic Sounds release from 2020,
 remastered by Ryan Smith. This one is hardpan central. It's like Coltrane went back to Atlantic and
 back to Tom Dowd's mixing here. I don't know why they did it like this. Coltrane is WAY to the left
