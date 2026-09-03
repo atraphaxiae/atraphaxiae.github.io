@@ -12,7 +12,7 @@ vinyl rips today:
 - Analogue Productions AIPJ 77 (2010) remastered by Kevin Gray, ripped by SteveMTNO.
 - Acoustic Sounds B0302077-01 (2020) remastered by Ryan Smith, ripped by PBTHAL.
 - Speakers Corner AS-77 (2001) remastered by Kevin Gray, ripped by aksman.
-- Impulse! A-77 (1965) first press, mastered by Rudy Van Gelder, ripped by PBTHAL.
+- Impulse! AS-77 (1965) first press, mastered by Rudy Van Gelder, ripped by PBTHAL.
 
 Familiarize yourself with the name Kevin Gray. He is the main character here. He is literally John
 Remaster. Expect going forward that he will always be a challenger in this competition supreme.
@@ -89,3 +89,64 @@ slamming sound a bit better, but it's still not great.
 Sadly, with great saxophone comes great inner groove distortion. Well, not really so great to the
 point of unlistenability, but it is there. It's easiest to hear near the ends of "Part II -
 Resolution" and "Part IV - Psalm" in Coltrane's saxophone, especially when he's belting out notes.
+
+## Speakers Corner AS-77 (2001)
+Next is the not-as-expensive but still diminishing returns Speakers Corner release from 2001, also
+remastered by Kevin Gray. This one is weird. I'm not sure if it's just the rip, but it sounds like
+I'm listening to the album like it was coming out of a radio or something; this one is even darker
+and muffled but thumpier than the Acoustic Sounds one. It also sounds like the volume of a channel
+is being controlled by a sine wave with how much it's changing throughout the album. This is
+annoyingly prominent in both "Part I - Acknowledgement" and "Part III - Pursuance". In
+Acknowledgement, it's on the right channel affecting the drums. In Pursuance, it's fucking up the
+entire left channel until the middle of Tyner's solo.
+
+The good thing about this is that it isn't as hard panned as the Acoustic Sounds. It kinda sits
+right in the middle of the 2010 AP and the 2020 AS releases. This is true for the bassiness too.
+There is also less IGD compared to the Acoustic Sounds, which is a welcome difference.
+
+## Impulse! A-77 (1965) first press
+Finally, we have the holy grail, the VERY expensive stereo first press of A Love Supreme. This thing
+is going for thousands of dollars in Discogs, but is it any good? The problems are immediately
+audible in the very intro of Acknowledgement. I'm not sure if this is just a ripping thing, but on
+Side A, the distortion of Coltrane's saxophone is crazy, to the point of being almost unlistenable.
+There is also much more inner groove distortion here, which you can absolutely hear on the endings
+of Resolution and Psalm. The volume also suddenly gets lower at the very end of Resolution, like
+someone accidentally bumped the fadeout knob or something.
+
+I don't know why they released this and called this a stereo record. This is barely even stereo.
+Everything is right smack dab in the middle. It's like Coltrane, Jones, Tyner and Garrison are all
+holding hands in the middle of a cramped train while playing. Because of this, the bass is even less
+audible, suffocating in the middle of the saxophone and drum giants. The one good thing is that
+Tyner is magically a lot louder in this mastering for some reason. Maybe get this if you want to
+hear the piano more?
+
+This one is even thumpier and more intense than the Speakers Corner. This is cut flaming hot. Just
+listen to the ending of Pursuance and you'll hear how intense this one is. While it is a wall of
+sound, I think it works well with this album. But in order to achieve hotness, we sacrifice
+cleanliness and introduce even more distortion. It's like sounds are overlapping and overwriting
+each other in this mastering. Things that should be sustained are cut short by a different sound, if
+that makes sense? I don't really know how to explain it. The bass is also certainly muddier in this
+compared to the Speakers Corner; listen to the bass solo at the end of Pursuance and you'll hear
+what I mean.
+
+## Conclusions
+Personally, I am a big fan of clean, analytical, and detailed remasterings. Which is why, in my
+books, the Analogue Productions AIPJ 77 wins. There just isn't any distortion in it, and while it
+isn't as intense as the other releases, it's still intense enough to work for the album. There also
+isn't anything hard-panned in it, and I'd say that it has the best soundstage of all the releases
+here. It's great, and I have basically no complaints about it throughout the entire album. The ride
+is sizzly, the sax is pristine, the bass is full even if it's quiet, and the piano is good enough
+for an RVG record.
+
+If you want max value though, get the Acoustic Sounds. Even with the hardpan, it is still clear and
+great, and it's priced at much, much less than the other releases in here. If you want it how it
+originally sounds, then I guess go for the first press. I suspect that my problems with it can be
+chalked up to the age of the record, so take my review of it with a grain of salt. If you want
+something that's cheaper but closer to how the original sounds, then get the Speakers Corner.
+
+Finally, I can go back in peace to my AIPJ 77 rip. After listening to so many inferior remasterings,
+the AP45 is like a breath of fresh air. Like I just listened to it for the first time again. My mind
+is still blown on how this one can sound so good. But anyways, that's about it for this comparison
+supreme. Thanks for sticking around for my long rants and ravings about things that you probably
+won't agree about. After all, what is audiophilia if not the experience of having heated debates
+about things that 99% of people don't give a shit about.
