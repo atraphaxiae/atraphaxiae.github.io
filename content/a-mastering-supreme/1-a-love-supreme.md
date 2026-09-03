@@ -9,10 +9,10 @@ you favorably in heaven. I won't introduce this album to you, you probably alrea
 you're a jazz fan, so let's just get into what we're dealing with. We have a collection of four
 vinyl rips today:
 
-- Analogue Productions AIPJ 77 (2010) remastered by Kevin Gray, ripped by SteveMTNO.
-- Acoustic Sounds B0302077-01 (2020) remastered by Ryan Smith, ripped by PBTHAL.
-- Speakers Corner AS-77 (2001) remastered by Kevin Gray, ripped by aksman.
-- Impulse! AS-77 (1965) first press, mastered by Rudy Van Gelder, ripped by PBTHAL.
+- Analogue Productions AIPJ 77 (2010) remastered by Kevin Gray, ripped by SteveMTNO
+- Acoustic Sounds B0302077-01 (2020) remastered by Ryan Smith, ripped by PBTHAL
+- Speakers Corner AS-77 (2001) remastered by Kevin Gray, ripped by aksman
+- Impulse! AS-77 (1965) first press, mastered by Rudy Van Gelder, ripped by PBTHAL
 
 Familiarize yourself with the name Kevin Gray. He is the main character here. He is literally John
 Remaster. Expect going forward that he will always be a challenger in this competition supreme.
@@ -45,7 +45,7 @@ right, nothing gets muddy and you can always point out what Jones is doing at an
 album. The cymbals have a ton of sizzle, the snare has a lot of bite, and the bass drum and toms
 sound super deep; they aren't just thumps in the song. You can even clearly hear some of his grunts!
 This is going to be a trend with these Analogue Productions releases, and if you're a drummer like
-me, you will love these ones.
+me, you will love them.
 
 Coltrane also sounds great here, but sadly he isn't as loud as he should be. There are times that
 I'll admit that everything gets drowned out by the drums, but to me they aren't that big of a deal.
@@ -102,16 +102,17 @@ entire left channel until the middle of Tyner's solo.
 
 The good thing about this is that it isn't as hard panned as the Acoustic Sounds. It kinda sits
 right in the middle of the 2010 AP and the 2020 AS releases. This is true for the bassiness too.
-There is also less IGD compared to the Acoustic Sounds, which is a welcome difference.
+There is also less inner groove distortion (IGD) compared to the Acoustic Sounds, which is a welcome
+difference.
 
 ## Impulse! A-77 (1965) first press
 Finally, we have the holy grail, the VERY expensive stereo first press of A Love Supreme. This thing
 is going for thousands of dollars in Discogs, but is it any good? The problems are immediately
 audible in the very intro of Acknowledgement. I'm not sure if this is just a ripping thing, but on
 Side A, the distortion of Coltrane's saxophone is crazy, to the point of being almost unlistenable.
-There is also much more inner groove distortion here, which you can absolutely hear on the endings
-of Resolution and Psalm. The volume also suddenly gets lower at the very end of Resolution, like
-someone accidentally bumped the fadeout knob or something.
+There is also much more IGD here, which you can absolutely hear on the endings of Resolution and
+Psalm. The volume also suddenly gets lower at the very end of Resolution, like someone accidentally
+bumped the fadeout knob or something.
 
 I don't know why they released this and called this a stereo record. This is barely even stereo.
 Everything is right smack dab in the middle. It's like Coltrane, Jones, Tyner and Garrison are all
