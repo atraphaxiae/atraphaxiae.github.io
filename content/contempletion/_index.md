@@ -1,7 +1,7 @@
 +++
 title = "Contempletion"
 weight = 1
-sort_by = "title"
+sort_by = "permalink"
 +++
 
 ## Impermanence and Completionism

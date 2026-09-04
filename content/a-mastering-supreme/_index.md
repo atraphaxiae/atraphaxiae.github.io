@@ -1,7 +1,7 @@
 +++
 title = "A Mastering Supreme"
 weight = 0
-sort_by = "title"
+sort_by = "permalink"
 +++
 
 ## A Mastering Supreme
