@@ -23,6 +23,9 @@
 !/static/fonts/fira-sans-v18-latin/fira-sans-v18-latin-italic.woff2
 !/static/fonts/fira-sans-v18-latin/fira-sans-v18-latin-regular.woff2
 !/static/fonts/fira-sans-v18-latin/LICENSE
+!/static/fonts/noto-serif-v33-latin/
+!/static/fonts/noto-serif-v33-latin/noto-serif-v33-latin-600.woff2
+!/static/fonts/noto-serif-v33-latin/LICENSE
 
 !/templates/
 !/templates/base.html
