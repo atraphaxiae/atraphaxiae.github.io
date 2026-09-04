@@ -18,6 +18,8 @@
 !/static/
 !/static/fonts
 !/static/fonts/fira-sans-v18-latin/
+!/static/fonts/fira-sans-v18-latin/fira-sans-v18-latin-700.woff2
+!/static/fonts/fira-sans-v18-latin/fira-sans-v18-latin-700italic.woff2
 !/static/fonts/fira-sans-v18-latin/fira-sans-v18-latin-italic.woff2
 !/static/fonts/fira-sans-v18-latin/fira-sans-v18-latin-regular.woff2
 !/static/fonts/fira-sans-v18-latin/LICENSE
