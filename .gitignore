@@ -8,9 +8,13 @@
 
 !/content/
 !/content/_index.md
+
 !/content/a-mastering-supreme/
 !/content/a-mastering-supreme/_index.md
 !/content/a-mastering-supreme/1-a-love-supreme.md
+
+!/content/contempletion/
+!/content/contempletion/_index.md
 
 !/sass/
 !/sass/styles.scss
