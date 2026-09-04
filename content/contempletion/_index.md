@@ -17,11 +17,11 @@ that I get from my own suffering is hindering me from seeing the truth that all 
 can enjoy my future, so that I can finally do the things that I really love.
 
 This entire thing is exacerbated by the fact that I'm a massive completionist. I want to do
-everything myself, and finish everything myself. It's like two opposing sides of my brain; one is
-telling me that there's no point in doing anything, and the other is telling me that I should be
-doing everything. I have to finish this one thing before I can do the other thing, otherwise I'm not
-doing it properly. But how am I going to do the things, if I can't do one thing because there's no
-point in doing it in the first place?
+everything myself, and finish everything myself. It's like there are two opposing sides of my brain;
+one is telling me that there's no point in doing anything, and the other is telling me that I should
+be doing everything. I have to finish this one thing before I can do the other thing, otherwise I'm
+not doing it properly. But how am I going to do the things, if I can't do one thing because there's
+no point in doing it in the first place?
 
 Such privileged first world problems, I know. But it's what I've been going through my entire life,
 and it has reached its grubby hands into every aspect of my lifestyle. This section of my website

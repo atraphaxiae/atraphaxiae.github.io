@@ -26,7 +26,7 @@ it's gonna be an annoyingly tedious ride in the future when I start comparing th
 of the same exact release of an album.
 
 I'm not very sure on how to write a comparison yet, so bear with me as I learn how to do this blog.
-It's gonna be a struggle trying to verbalize exactly *why* something sounds better instead of just
+It's gonna be a struggle trying to verbalize exactly *why* something sounds better instead of
 thinking that "it just does". But enough rambling, here are my thoughts.
 
 ## Analogue Productions AIPJ 77 (2010)
