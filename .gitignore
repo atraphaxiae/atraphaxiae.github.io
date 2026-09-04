@@ -13,8 +13,14 @@
 !/content/a-mastering-supreme/1-a-love-supreme.md
 
 !/sass/
+!/sass/styles.scss
 
 !/static/
+!/static/fonts
+!/static/fonts/fira-sans-v18-latin/
+!/static/fonts/fira-sans-v18-latin/fira-sans-v18-latin-italic.woff2
+!/static/fonts/fira-sans-v18-latin/fira-sans-v18-latin-regular.woff2
+!/static/fonts/fira-sans-v18-latin/LICENSE
 
 !/templates/
 !/templates/base.html
