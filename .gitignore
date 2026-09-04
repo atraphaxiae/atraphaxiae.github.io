@@ -18,14 +18,17 @@
 !/static/
 !/static/fonts
 !/static/fonts/fira-sans-v18-latin/
-!/static/fonts/fira-sans-v18-latin/fira-sans-v18-latin-700.woff2
-!/static/fonts/fira-sans-v18-latin/fira-sans-v18-latin-700italic.woff2
+!/static/fonts/fira-sans-v18-latin/fira-sans-v18-latin-600.woff2
+!/static/fonts/fira-sans-v18-latin/fira-sans-v18-latin-600italic.woff2
 !/static/fonts/fira-sans-v18-latin/fira-sans-v18-latin-italic.woff2
 !/static/fonts/fira-sans-v18-latin/fira-sans-v18-latin-regular.woff2
 !/static/fonts/fira-sans-v18-latin/LICENSE
 !/static/fonts/noto-serif-v33-latin/
 !/static/fonts/noto-serif-v33-latin/noto-serif-v33-latin-600.woff2
 !/static/fonts/noto-serif-v33-latin/LICENSE
+!/static/fonts/noto-serif-display-v29-latin/
+!/static/fonts/noto-serif-display-v29-latin/noto-serif-display-v29-latin-600.woff2
+!/static/fonts/noto-serif-display-v29-latin/LICENSE
 
 !/templates/
 !/templates/base.html
