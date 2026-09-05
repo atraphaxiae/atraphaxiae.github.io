@@ -21,6 +21,8 @@
 !/sass/styles.scss
 
 !/static/
+!/static/.well-known/
+!/static/.well-known/discord
 !/static/fonts
 !/static/fonts/fira-sans-v18-latin/
 !/static/fonts/fira-sans-v18-latin/fira-sans-v18-latin-600.woff2
