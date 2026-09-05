@@ -21,9 +21,10 @@ jobs:
         uses: actions/checkout@v7.0.0
 
       - name: Build Zola + upload Pages artifact
-        uses: getzola/github-pages@066755243e69f508fd1a74739fbf1a65f656c790
+        uses: atraphaxiae/zola-github-pages@20a0cd1ae437c7fcc8145e884a2649e00482442b
         with:
           zola_version: v0.22.1
+          include_hidden_files: true
 
   deploy:
     runs-on: ubuntu-latest
