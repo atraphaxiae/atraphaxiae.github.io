@@ -1,6 +1,5 @@
 +++
 title = "Introduction"
-weight = 0
 +++
 
 ## A Mastering Supreme
