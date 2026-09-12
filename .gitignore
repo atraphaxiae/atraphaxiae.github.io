@@ -11,7 +11,7 @@
 
 !/content/a-mastering-supreme/
 !/content/a-mastering-supreme/_index.md
-!/content/a-mastering-supreme/1-a-love-supreme.md
+!/content/a-mastering-supreme/0-introduction.md
 
 !/content/contempletion/
 !/content/contempletion/_index.md
@@ -24,7 +24,7 @@
 !/static/.nojekyll
 !/static/.well-known/
 !/static/.well-known/discord
-!/static/fonts
+!/static/fonts/
 !/static/fonts/fira-sans-v18-latin/
 !/static/fonts/fira-sans-v18-latin/fira-sans-v18-latin-600.woff2
 !/static/fonts/fira-sans-v18-latin/fira-sans-v18-latin-600italic.woff2
