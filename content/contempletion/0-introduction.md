@@ -20,7 +20,7 @@ everything myself, and finish everything myself. It's like there are two opposin
 one is telling me that there's no point in doing anything, and the other is telling me that the
 point is to do everything. I also have some OCD where I have to do this one thing before I can do
 the other thing, because otherwise, I'm not doing it properly. But how am I going to do the things,
-if I can't do one thing because there's no point in doing it in the first place?
+if I can't do one thing since there's no point in doing it in the first place?
 
 This brain deadlock is pretty much the sole cause for my issues. Such privileged first world
 problems, I know. But it's stuck with me my entire life, and it has reached its grubby hands into
