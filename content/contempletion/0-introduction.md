@@ -32,6 +32,6 @@ movies I've watched, etc.
 This lets me kill two birds with one stone. I have complete control over this blog and its source
 code, so it can pretty much stay up for as long as I want, barring catastrophic user error. I am
 essentially taking the responsibility of preservation into my own hands, rather than leaving it to
-the destructive whims of other people who don't care and whom I don't trust. This takes care of the
-impermanence problem, at least for as long as I'm here on Earth. Then finally, doing things might
+the destructive whims of other people who don't care and whom I don't trust. This solves the
+impermanence problem, at least for the time that I'm here on Earth. Then finally, doing things might
 not feel so pointless anymore.
