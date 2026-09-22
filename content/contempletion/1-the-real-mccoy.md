@@ -12,11 +12,11 @@ Japanese fusion bands there are. Though personally, I wasn't a fan of the 80s st
 more electronic stuff in it. I like my music better when it's acoustic.
 
 I decided to branch out in my listening, so I hit RateYourMusic to find the quote-unquote best jazz
-albums. I tried *Kind of Blue*, *A Love Supreme*, Art Blakey's *Moanin'*, but they never really left
-an impression on me. Except for the self-titled first track of *Moanin'*; I immediately thought that
-was a masterpiece. When I was listening to *A Love Supreme* though, I focused more on the piano than
-on Coltrane. His style of slamming the chords really reeled me in, so I looked him up on RYM and
-sure enough, he also has a bolded album on there.
+albums. I tried *Kind of Blue*, *A Love Supreme*, and Art Blakey's *Moanin'*, but they never really
+left an impression on me. Except for the self-titled first track of *Moanin'*; I immediately thought
+that was a masterpiece. When I was listening to *A Love Supreme* though, I focused more on the piano
+than on Coltrane. His style of slamming the chords really reeled me in, so I looked him up on RYM
+and sure enough, he also has a bolded album on there.
 
 *The Real McCoy* was my gateway drug to jazz. Listening to this album completely turned my music
 world upside down; in an instant it became my favorite album. Pretty much because of its first two
@@ -47,7 +47,7 @@ In this case, next up is Henderson's solo. He doesn't let any of Tyner's build-u
 starting his solo off with two super strong high notes. I don't know why, but his style of buzzing
 and honking saxophone really works well in almost every album he's in. This song got me trying to
 collect all the Blue Note albums that he's in, just to listen to his saxophone style. He ends his
-solo in a way which I can only describe as 'celtic'. Not sure why, but that's what I think when I
+solo in a way which I can only describe as 'Celtic'. Not sure why, but that's what I think when I
 hear the end of his solo.
 
 Then we get Jones' drum solo, a showcase of his never-ending skill. Honestly though, I'm a bigger
