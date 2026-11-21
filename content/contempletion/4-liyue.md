@@ -34,14 +34,18 @@ these annoying puzzles. And I have it on easy mode right now; imagine being that
 (me in the past) that only had Traveller as their sole Anemo and Geo character, re-re-resonating
 from Geo to Anemo and re-re-re-resonating back every time you see one of those frustrating
 windmills. If you're also frustrated by my repetition of the "re"-s, that's how it re-re-re-re-feels
-every time I have to sit through that annoying unskippable animation when you're
-re-re-re-re-re-resonating your MC. Almost a decade of Genshin goodness and that burden of a cutscene
-is still unskippable.
+every time I have to sit through that annoying unskippable animation when I'm
+re-re-re-re-re-resonating my MC, who, by the way, is SUPPOSED to be able to wield all the elements
+at once. Almost a decade of Genshin goodness and that burden of a cutscene is still unskippable. Not
+that there should even be a cutscene in the first place; this kind of thing should literally just be
+a single button in the menu. But the Hoyo gods withholdeth, and withholdeth again, and withholdeth
+again again.
 
-My point is, Liyue adds a lot of things; half are annoying and half are enjoyable. Maybe I glossed
-over those enjoyable things in this review, but that's what happens when you complete the game a
-million times and forget the good parts because you've already experienced them a billion times, and
-what's left is the annoyance of completing the game again.
+My point is that Hoyo seems to love withholding QoL updates to their literal biggest cash-cow. My
+other non-tangential but less-important point is that Liyue adds a lot of things; half are annoying
+and half are enjoyable. Maybe I glossed over those enjoyable things in this review, but that's what
+happens when you complete the game a million times and forget the good parts because you've already
+experienced them a billion times, and what's left is the annoyance of completing the game again.
 
 But anyways, considering the "annoyance bias" that I have right now, I'll consider my past feelings
 for Liyue more in this rating. I'd give Liyue a **4/5**. It's not my favorite region either, but
