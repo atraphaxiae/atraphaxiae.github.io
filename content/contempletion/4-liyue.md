@@ -32,7 +32,11 @@ I also hate the fact that you get Anemo and Geo BS everywhere in the map. I had 
 up and build Fischl to replace CMC because I had to re-resonate my CMC to become GMC because of
 these annoying puzzles. And I have it on easy mode right now; imagine being that F2P 1.0 newcomer
 (me in the past) that only had Traveller as their sole Anemo and Geo character, re-re-resonating
-from Geo to Anemo and back every time you see one of those frustrating windmills.
+from Geo to Anemo and re-re-re-resonating back every time you see one of those frustrating
+windmills. If you're also frustrated by my repetition of the "re"-s, that's how it re-re-re-re-feels
+every time I have to sit through that annoying unskippable animation when you're
+re-re-re-re-re-resonating your MC. Almost a decade of Genshin goodness and that burden of a cutscene
+is still unskippable.
 
 My point is, Liyue adds a lot of things; half are annoying and half are enjoyable. Maybe I glossed
 over those enjoyable things in this review, but that's what happens when you complete the game a
@@ -40,8 +44,8 @@ million times and forget the good parts because you've already experienced them 
 what's left is the annoyance of completing the game again.
 
 But anyways, considering the "annoyance bias" that I have right now, I'll consider my past feelings
-for Liyue more in this rating. I'd give Liyue a **4/5**. It's not my favorite region either, and
-it's an improvement over Mondstadt in the exploration quality and quantity, but a lot of those new
-things are just outright annoying to do. Next up is Inazuma, which is the region I should be dogging
-on right now. Unexpectedly, I'm actually enjoying it for some reason. More on this after I complete
-Inazuma and procrastinate writing a review again by moving on to the Chasm.
+for Liyue more in this rating. I'd give Liyue a **4/5**. It's not my favorite region either, but
+it's an improvement over Mondstadt in the exploration quality and quantity. However, a lot of those
+new things are just outright annoying to do. Next up is Inazuma, which is the region I should be
+dogging on right now. Unexpectedly, I'm actually enjoying it for some reason. More on this after I
+complete Inazuma and procrastinate writing a review again by moving on to the Chasm.
