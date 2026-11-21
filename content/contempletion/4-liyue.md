@@ -5,15 +5,15 @@ date = 2026-11-21
 
 Procrastinated a lot on this review. Mostly because I finished doing Liyue like 20 days ago, and I'm
 now two out of five subregions complete in Inazuma. Genshin suddenly feels so enjoyable after
-getting out of the Monstadt purgatory that I used to find myself in. I wonder why that is...
+getting out of the Mondstadt purgatory that I used to find myself in. I wonder why that is...
 
 Anyways, Liyue. Personally, I'm a big fan of Liyue, but not the main region itself. I find myself
-liking the Chasm and Chenyu Vale a lot more than regular old Liyue. Though probably this is an
+liking the Chasm and Chenyu Vale a lot more than regular old Liyue, though probably this is an
 effect of me having completed this region like three times already, which is two times more than
 what should be normal for me. At this point Liyue just feels bland, no offense to our Chinese
 players. Everything's basically just a "go there, press 'F' a few times, kill a few enemies, quest
 done". I mean you can certainly say that about the entirety of Genshin, but Liyue does it in a way
-that there is little replayability. That's unlike the Chasm, which I'm excited to re-experience
+that there's little replayability. That's unlike the Chasm, which I'm excited to re-experience
 despite already completing it twice.
 
 But I'd say that Liyue is generally an improvement over Mondstadt. When I first played the game
